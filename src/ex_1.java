@@ -12,7 +12,6 @@ enum Drinks {
         this.name = name;
         this.price = price;
     }
-
     public String getName() {
         return name;
     }
@@ -40,7 +39,7 @@ enum Money {
     }
 }
 
-public class Main {
+public class ex_1 {
     private double insertedMoney;
 
     public void showMenu() {
@@ -80,7 +79,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        Main vm = new Main();
+        ex_1 vm = new ex_1();
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
