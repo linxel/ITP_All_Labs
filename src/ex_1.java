@@ -39,7 +39,7 @@ enum Money {
     }
 }
 
-public class ex_1 {
+public class ex_1  {
     private double insertedMoney;
 
     public void showMenu() {

@@ -130,7 +130,7 @@ class Appointment {
     }
 }
 
-public class ex_2 {
+public class ex_2  {
     public static void main(String[] args) {
         Patient patient1 = new Patient(1, "Alice");
         Doctor doctor1 = new Doctor(1, "Dr. Smith");

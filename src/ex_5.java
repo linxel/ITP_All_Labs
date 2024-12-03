@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class ex_5 {
+public class ex_5 { 
     public static void main(String[] args) {
         Map<String, Integer> valueCountMap = new HashMap<>();
         Scanner scanner = new Scanner(System.in);
