@@ -19,4 +19,3 @@ public class lab1_5     {
         System.out.println("vowels: " + count);
     }
 }
-

@@ -4,6 +4,7 @@ public class lab1_9 {
         double average = calculateAverage(numbers);
         System.out.println("The average value of the array elements is: " + average);
     }
+
     public static double calculateAverage(int[] array) {
         int sum = 0;
         for (int num : array) {
@@ -11,5 +12,4 @@ public class lab1_9 {
         }
         return (double) sum / array.length;
     }
-
 }
